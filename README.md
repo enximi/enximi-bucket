@@ -1,5 +1,8 @@
 # my-bucket
 
+[![Tests](https://github.com/enximi/my-bucket/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/enximi/my-bucket/actions/workflows/ci.yml)
+[![Excavator](https://github.com/enximi/my-bucket/actions/workflows/excavator.yml/badge.svg?branch=main)](https://github.com/enximi/my-bucket/actions/workflows/excavator.yml)
+
 Personal [Scoop](https://scoop.sh) bucket for packages published by `enximi`.
 
 ## Available manifests

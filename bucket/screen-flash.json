@@ -11,9 +11,7 @@
         }
     },
     "bin": "screen-flash.exe",
-    "checkver": {
-        "github": "https://github.com/enximi/screen-flash"
-    },
+    "checkver": "github",
     "autoupdate": {
         "architecture": {
             "64bit": {
